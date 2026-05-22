@@ -1,23 +1,79 @@
-Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy – AI Messaging Assistant</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      line-height: 1.6; 
+      margin: 2rem; 
+      color: #333; 
+    }
 
-We collect and process customer communication data submitted through WhatsApp in order to provide automated customer support and enquiry handling services.
+    h2 { 
+      color: #0057ff; 
+    }
 
-Data collected may include:
+    ul {
+      margin-left: 1.5rem;
+    }
+  </style>
+</head>
+<body>
 
-Name
-Phone number
-Messages submitted through WhatsApp
-Appointment or enquiry information voluntarily provided by users
+  <h2>Privacy Policy – AI Messaging Assistant</h2>
 
-We do not sell personal data.
+  <p>
+    We (“we”, “our”, or “us”) respect your privacy. This policy explains how customer communication data is handled when using our AI-powered WhatsApp customer support and enquiry handling services.
+  </p>
 
-Data is used solely for:
+  <h3>1. Data We Collect</h3>
 
-customer support,
-service improvement,
-enquiry handling,
-appointment coordination.
+  <p>We may collect and process the following information submitted voluntarily through WhatsApp:</p>
 
-Users may request deletion of their data at any time by contacting:
+  <ul>
+    <li>Name</li>
+    <li>Phone number</li>
+    <li>Messages submitted through WhatsApp</li>
+    <li>Appointment or enquiry information voluntarily provided by users</li>
+  </ul>
 
-info@ctron.co.uk
+  <h3>2. Data Usage</h3>
+
+  <p>Your data is used solely for:</p>
+
+  <ul>
+    <li>Customer support</li>
+    <li>Service improvement</li>
+    <li>Enquiry handling</li>
+    <li>Appointment coordination</li>
+  </ul>
+
+  <p>We do not sell personal data to third parties.</p>
+
+  <h3>3. Security</h3>
+
+  <p>
+    We take reasonable steps to protect customer communication data and maintain appropriate safeguards to prevent unauthorised access, misuse, or disclosure.
+  </p>
+
+  <h3>4. Data Deletion Requests</h3>
+
+  <p>
+    Users may request deletion of their data at any time by contacting:
+    <a href="mailto:info@ctron.co.uk">info@ctron.co.uk</a>
+  </p>
+
+  <h3>5. Contact</h3>
+
+  <p>
+    Questions regarding this Privacy Policy may be sent to:
+    <a href="mailto:info@ctron.co.uk">info@ctron.co.uk</a>
+  </p>
+
+  <p><em>Last updated: May 2026</em></p>
+
+</body>
+</html>
