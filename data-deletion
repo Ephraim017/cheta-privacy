@@ -1,13 +1,50 @@
-Data Deletion Instructions
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Data Deletion Instructions – AI Messaging Assistant</title>
 
-Users may request deletion of their data by emailing:
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 2rem;
+      color: #333;
+    }
 
-info@ctron.co.uk
+    h2 {
+      color: #0057ff;
+    }
 
-Please include:
+    ul {
+      margin-left: 1.5rem;
+    }
+  </style>
+</head>
 
-your phone number,
-the business you contacted,
-your deletion request.
+<body>
 
-Deletion requests are processed within 30 days.
+  <h2>Data Deletion Instructions – AI Messaging Assistant</h2>
+
+  <p>
+    Users may request deletion of their data by emailing:
+    <a href="mailto:info@ctron.co.uk">info@ctron.co.uk</a>
+  </p>
+
+  <p>Please include:</p>
+
+  <ul>
+    <li>Your phone number</li>
+    <li>The business you contacted</li>
+    <li>Your deletion request</li>
+  </ul>
+
+  <p>
+    Deletion requests are processed within 30 days.
+  </p>
+
+  <p><em>Last updated: May 2026</em></p>
+
+</body>
+</html>
